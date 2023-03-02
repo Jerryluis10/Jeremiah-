@@ -1,0 +1,35 @@
+<html>
+     <body style="background-color: rgb(247, 247, 247);"></body>
+    <head>
+        <title>
+            GENTLE LOOK
+        </title>
+    </head>
+    <body>
+        <h1 style="text-align: center; margin-top: 10% ; color: aquamarine;">G<span style="color: red;">E<span style="color: aliceblue;">N<span style="color: gold;">T<span style="color: aquamarine;">L<spa style="color: darkorange;">E<span style="color: black;">   L<span style="color: cornflowerblue;">O<span style="color: blue;">O<span style="color: black;">K</span></h1> <h2 style="text-align: center;"><input><button><a href="https://www.google.com ">search</a></button></h2>
+        <h2>CREATE ACCOUNT</h2>
+            <h2></h2>
+            <input placeholder="name"> 
+        <h2></h2>
+            <input type="number" placeholder="Phone number"> 
+        <h3></h3>
+            <input placeholder="Email address"> 
+            <h4></h4>
+          <h3>GENDER</h3>
+          <h4>Male <input type="checkbox"> Female<input type="checkbox"></h4>
+            <h5></h5>
+            <input type="text" placeholder="Nationality">
+            <h3>MARITAL STATUS</h3>
+            <h4>single<input type="checkbox">married<input type="checkbox">divorced<input type="checkbox"></h4>
+            <h2></h2>
+            <input type="date" placeholder="DOB">
+            <h2></h2>
+            <h2><input type="text" placeholder="create password"></h2>
+            <h2><input type="text" placeholder="user name"></h2>
+            
+            <h4></h4>
+            
+            press here to submit
+            <h2><button><a href="C:\Users\User\Desktop\onyeka\image\submit.html">sumbit</a></button></h2>
+
+</html>
